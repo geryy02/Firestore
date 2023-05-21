@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979221001767",
+    "project_id": "firestore-ab1ba",
+    "storage_bucket": "firestore-ab1ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979221001767:android:c3ba50dad673c2e8b80002",
+        "android_client_info": {
+          "package_name": "com.pemrogramanmobile.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979221001767-vnm6ce3mvv3e47jo5rdg6sbilm8oa2vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pemrogramanmobile.firestore",
+            "certificate_hash": "90ac2a793b6f9420a59d7ca369d9f3d472fdf7c3"
+          }
+        },
+        {
+          "client_id": "979221001767-2fm7lqcbib5g3bfgmq9cnan9375v7uk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWiaWsNYLzeNX_nFZ8O3TwhUc5rmZqtjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979221001767-2fm7lqcbib5g3bfgmq9cnan9375v7uk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
